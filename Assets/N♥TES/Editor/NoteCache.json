@@ -1,0 +1,10 @@
+{
+    "notes": [
+        {
+            "noteText": "-Added non-trigger box collider to the projectile to get the box to move.",
+            "show": false,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-1-314ddf6bcc482c543a20c8d39f9ff6ec-1790328835693532-0"
+        }
+    ]
+}
